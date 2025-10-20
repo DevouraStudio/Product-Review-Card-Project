@@ -103,3 +103,17 @@ div.col-3 {
 	width: 100%;
 	height: auto;
 }
+
+@media (min-width: 375px) and (max-width: 1200px) {
+	body {
+		padding: 5rem 1rem;
+	}
+
+	div.card {
+		width: 95vw;
+	}
+
+	#Second-Col {
+		padding: 1.5rem 3rem;
+	}
+}
