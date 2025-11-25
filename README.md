@@ -17,26 +17,26 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Overview
 
-### The challenge
+### The challenge:
 
 Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
+### Screenshots:
 
 ![Desltop](/Screenshot.png)
 ![Mobile](/Screenshot2.png)
 
-### Links
+### Links:
 
-- Solution URL: [Add solution URL here](https://github.com/DevouraStudio/Product-Review-Card-Project)
-- Live Site URL: [Add live site URL here](https://devourastudio.github.io/Product-Review-Card-Project/)
+- Solution URL: [solution URL](https://github.com/DevouraStudio/Product-Review-Card-Project)
+- Live Site URL: [live site URL](https://devourastudio.github.io/Product-Review-Card-Project/)
 
 ## My process
 
-### Built with
+### Built with:
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -46,12 +46,12 @@ Users should be able to:
 - CSS Media Queries
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 
-### What I learned
+### What I learned:
 
 "Well, This Project Presented Its Own Unique Challenges. One Of The Main Challenges Was Implementing Two Different Images At Breakpoints To Ensure Responsiveness, Along With Effectively Utilizing The Bootstrap Grid System. These Issues Were Successfully Resolved Through The Responsive Capabilities And Clear Grid Concepts Provided By Bootstrap. While The HTML Coding And Bootstrap Concepts Were Manageable, A Significant Challenge In CSS Involved Properly Applying And Adjusting Margins And Padding For Almost All Bootstrap And HTML Elements. The Remaining Coding Tasks And Application Of My Skills Were Similar To My Previous Projects, With No Major Differences."
 
 ```html
-      S<div class="col-xl-6" id="First-Col">
+      <div class="col-xl-6" id="First-Col">
 				<img src="image-product-desktop.jpg" alt="Image Product Desktop" class="img-fluid d-none d-xl-block"
 					id="Image">
 				<img src="image-product-mobile.jpg" alt="Image Product Mobile" class="img-fluid d-block d-xl-none"
@@ -70,11 +70,11 @@ Users should be able to:
 }
 ```
 
-### Continued development
+### Continued development:
 
 "To Be Honest, The Grid System And Responsiveness Of Bootstrap Were Very Exciting For Me, And I Plan To Utilize Them In Future Projects To Further Optimize My Code Wherever Possible. Using Bootstrap Is Highly Useful And Efficient, As It Not Only Simplifies The Code But Also Enhances The Understanding Of Its Concepts And Syntax. Additionally, I Have Set A Goal To Improve My Use Of Margins And Paddings In Future Projects, As They Are Both Necessary And Essential In Any Development Process."
 
-### Useful resources
+### Useful resources:
 
 - [MDN](https://developer.mozilla.org/en-US/) - "During This Project, I Frequently Referred to the Mozilla Developer Network (MDN) Website as a Trusted Resource for Learning and Clarifying HTML, CSS, and JavaScript. MDN Provided Clear Documentation, Practical Examples, and Best Practices That Helped Me Solve Challenges More Efficiently. Using MDN Not Only Improved My Technical Accuracy but Also Strengthened My Confidence in Applying Modern Web Standards to My Work."
 
@@ -86,6 +86,5 @@ Users should be able to:
 
 - Website - [DevouraStudio](https://www.devoura.ir)
 - Frontend Mentor - [@DevouraStudio](https://www.frontendmentor.io/profile/DevouraStudio)
-- Dribble - [@DevouraStudio](https://www.dribbble.com/DevouraStudio)
 - Github - [@DevouraStudio](https://www.github.com/DevouraStudio)
 - Codepen - [@DevouraStudio](https://www.codepen.io/DevouraStudio)
